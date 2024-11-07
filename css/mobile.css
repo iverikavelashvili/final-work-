@@ -104,14 +104,9 @@
  .home_section_2 {
     padding-left: 8px;
 }
-
-
-
-
-
-
-
-
-
-
+    /* contact page style */
+.contact_section_3, .contact_section_from {
+    row-gap: 24px;
+}
+    
 }
